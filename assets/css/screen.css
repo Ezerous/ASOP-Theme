@@ -5,7 +5,6 @@
 @import "general/form.css";
 @import "site/header.css";
 @import "site/burger.css";
-@import "site/switch.css";
 @import "site/layout.css";
 @import "site/term.css";
 @import "site/dimmer.css";
@@ -28,4 +27,3 @@
 @import "misc/lazyload.css";
 @import "misc/kg.css";
 @import "misc/utilities.css";
-@import "misc/dark.css";
