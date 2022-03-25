@@ -167,3 +167,30 @@ hr::before {
 hr::after {
     left: 20px;
 }
+
+
+/* Custom stuff beyond "alto" theme */
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid;
+  text-align: left;
+  padding: 8px;
+  color: var(--primary-text-color);
+}
+
+th {
+  background-color: #BBB;
+  white-space: nowrap;
+}
+
+tr:nth-child(even) {
+  background-color: #DDD;
+}
+
+.nowrap {
+  background-color: #BBB;
+  white-space: nowrap;
+}

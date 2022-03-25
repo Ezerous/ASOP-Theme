@@ -88,3 +88,16 @@
 .dark-mode input[type="range"] {
     color: var(--dark-mode-primary-text-color);
 }
+
+/* Custom stuff beyond "alto" theme */
+.dark-mode td, .dark-mode th {
+  color: var(--dark-mode-primary-text-color);
+}
+
+.dark-mode th {
+  background-color: #555;
+}
+
+.dark-mode tr:nth-child(even) {
+  background-color: #777;
+}
