@@ -1,7 +1,7 @@
 {
-    "name": "alto",
+    "name": "asop-theme",
     "description": "A Ghost theme",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
@@ -43,13 +43,13 @@
         "custom": {
             "title_font": {
                 "type": "select",
-                "options": ["Modern sans-serif", "Elegant serif"],
-                "default": "Modern sans-serif"
+                "options": ["Open Sans"],
+                "default": "Open Sans"
             },
             "body_font": {
                 "type": "select",
-                "options": ["Modern sans-serif", "Elegant serif"],
-                "default": "Modern sans-serif"
+                "options": ["Open Sans"],
+                "default": "Open Sans"
             },
             "white_logo_for_dark_mode": {
                 "type": "image"

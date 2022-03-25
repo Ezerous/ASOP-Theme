@@ -1,14 +1,10 @@
-# Alto
+# ASOP-Theme
 
-A clean, minimalist theme featuring a light and dark mode. Launch your online publications with flair. Completely free and fully responsive, released under the MIT license.
-
-**Demo: https://alto.ghost.io**
-
-&nbsp;
+A clean, minimalist theme for Ghost, forked from Alto. Launch your online publications with flair. Completely free and fully responsive, released under the MIT license.
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Alto/archive/main.zip)
+1. [Download this theme](https://github.com/Ezerous/ASOP-Theme/archive/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # White Logo
@@ -47,4 +43,4 @@ yarn zip
 
 # Copyright & License
 
-Copyright (c) 2013-2022 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
