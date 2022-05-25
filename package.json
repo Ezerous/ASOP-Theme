@@ -40,16 +40,6 @@
         },
         "card_assets": true,
         "custom": {
-            "title_font": {
-                "type": "select",
-                "options": ["Open Sans"],
-                "default": "Open Sans"
-            },
-            "body_font": {
-                "type": "select",
-                "options": ["Open Sans"],
-                "default": "Open Sans"
-            },
             "white_logo_for_dark_mode": {
                 "type": "image"
             },
